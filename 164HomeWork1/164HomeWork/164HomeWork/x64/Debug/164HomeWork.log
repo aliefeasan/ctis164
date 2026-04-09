@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\hp\Desktop\ctis164hw(41,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(41,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(52,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(52,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  164HomeWork.vcxproj -> C:\Users\hp\Desktop\ctis164hw#1\164HomeWork\164HomeWork\x64\Debug\164HomeWork.exe

@@ -1,0 +1,39 @@
+﻿  ASAN_ALİEFE.cpp
+C:\Users\hp\Desktop\ctis164hw(38,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(38,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(49,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(49,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(106,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(109,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(112,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(115,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(121,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(121,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(125,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(125,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(126,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(126,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(127,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(127,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(214,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(221,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(231,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(238,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(248,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(255,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(264,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(265,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(266,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(267,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(270,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(271,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hp\Desktop\ctis164hw(321,23): warning C4309: 'argument': truncation of constant value
+C:\Users\hp\Desktop\ctis164hw(321,18): warning C4309: 'argument': truncation of constant value
+C:\Users\hp\Desktop\ctis164hw(321,13): warning C4309: 'argument': truncation of constant value
+C:\Users\hp\Desktop\ctis164hw(322,58): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(322,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(322,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(323,56): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(323,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164hw(323,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  164HomeWork.vcxproj -> C:\Users\hp\Desktop\ctis164hw#1\164HomeWork\x64\Debug\164HomeWork.exe
