@@ -39,7 +39,7 @@ A "hit the target" style game focused on game logic, timers, and collision physi
 
 ## 📜 Disclaimer
 This repository is for portfolio purposes only. 
-* **Current Students:** Copying this code or using AI for your assignments is against Bilkent University's academic integrity policy and will result in a grade of 0.
+* **Current Students:** Copying this code or using AI for your assignments is against Bilkent University's academic integrity policy.
 
 ---
 
