@@ -1,0 +1,36 @@
+﻿  ASAN_ALIEFE.cpp
+C:\Users\hp\Desktop\ctis164\164hw(74,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(74,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(81,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(81,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(87,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(94,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(94,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(107,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(107,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(120,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(120,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(134,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(167,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(168,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(195,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(198,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(198,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(199,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(199,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(200,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(200,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(229,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(230,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(259,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(259,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(265,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(265,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(271,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(271,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(276,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(284,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(284,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(518,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\Desktop\ctis164\164hw(525,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\hp\Desktop\ctis164\164hw#2\Project1\x64\Debug\Project1.exe
