@@ -1,59 +1,48 @@
-CTIS164 - Technical Mathematics with Programming
-Homework #1: Interactive 2D Scene with OpenGL/GLUT
-This project is a C-based graphical application developed as part of the CTIS164 course at Bilkent University. It demonstrates basic 2D computer graphics concepts, coordinate transformations, and user interactivity using the OpenGL Utility Toolkit (GLUT).
+# Bilkent University - CTIS 164 Projects
 
-👨‍💻 Author
-Name: Ali Efe Asan
+This repository contains graphical projects developed for the **CTIS 164: Technical Mathematics with Programming** course (2025-2026 Spring). Both applications are written in **C** using **OpenGL/GLUT**.
 
-Academic Year: 2025-2026 Spring
+---
 
-🚀 Features
-1. Interactive Menu System
-The application starts with three main interactive circular buttons at the top:
+## 🏗️ Project 1: Interactive 2D Scene
+A 2D graphical application featuring a dual-mode interface and procedural animations.
 
-TITLE: Displays student and course information.
+### Features
+* **Interactive Menu:** Circular buttons with hover effects using passive motion detection.
+* **Animations:** A custom-designed Police Car and moving cloud system.
+* **Environment:** Multi-layered scene with mountains, a house, and a highway.
+* **Interaction:** Euclidean distance-based collision detection for mouse clicks.
 
-SCENE: Transitions to an animated 2D landscape.
+---
 
-EXIT: Safely terminates the application.
+## 🎮 Project 2: Deep Sea Defender (Hit the Target)
+A "hit the target" style game focused on game logic, timers, and collision physics.
 
-2. Dynamic Visuals & Animations
-Animated Police Car: A custom-drawn police car that moves across the screen.
+### Features
+* **Player Control:** A submarine that moves vertically to aim and shoot.
+* **Gameplay:** Launch projectiles with the Space Bar to hit moving UFO targets.
+* **Game Logic:**
+    * 30-second countdown timer.
+    * Real-time scoring based on hit precision.
+    * **F1** to start/restart, **ESC** to pause/resume.
+* **UI:** Dedicated gaming area, scoreboard, and function key guide.
 
-Cloud Movement: Procedural cloud animation moving in the opposite direction of the car.
+---
 
-Environment Design: A detailed 2D scene featuring mountains, a house with windows/doors, and a highway.
+## 📸 Screenshots
 
-3. User Interaction
-Hover Effects: Buttons change color and text style when the mouse cursor hovers over them (Passive Motion).
+| Homework 1 | Homework 2 |
+| :---: | :---: |
+| ![Scene](501e0174-fa18-4730-ad60-6f7936684449.png) | ![Gameplay](004335ed-b29d-48ae-b116-baf0b4782b4f.png) |
 
-Mouse Clicking: Navigation between screens is handled via precise distance-based collision detection for the circular buttons.
+---
 
-🛠️ Technical Details
-Language: C
+## 📜 Disclaimer
+This repository is for portfolio purposes only. 
+* **Current Students:** Copying this code or using AI for your assignments is against Bilkent University's academic integrity policy and will result in a grade of 0.
 
-Library: OpenGL / GLUT
+---
 
-Shapes: Implementation of circles, polygons, lines, and rectangles using glBegin() and glEnd() primitives.
-
-Mathematics: * Trigonometric functions (sin, cos) for circle rendering.
-
-Euclidean distance formula for mouse-click detection.
-
-Coordinate mapping for window resizing.
-
-📸 How to Run
-Prerequisites: Ensure you have an IDE (like Visual Studio) configured with the GLUT library.
-
-Compilation: Compile the source code. The project includes #ifdef _MSC_VER to handle secure warnings in Windows environments.
-
-Controls:
-
-Move Mouse: Hover over buttons to see interactions.
-
-Left Click: Click "TITLE" or "SCENE" to switch views.
-
-📜 Academic Integrity
-This repository is for educational purposes. If you are a student currently taking the CTIS164 course, please refer to the university's academic integrity policy before using this code.
-
-Bilkent University - CTIS 2026
+**Author:** Ali Efe Asan  
+**University:** Bilkent University  
+**Department:** CTIS
